@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("https://img.freepik.com/free-photo/purple-sunset-coast_181624-50301.jpg?t=st=1730016526~exp=1730020126~hmac=3d9e5ea917d04a3a779d78d795916bbdabdd2894bc91a460857eefc657dca253&w=900");
+  background-size: cover;
+  background-attachment: fixed;
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
