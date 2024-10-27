@@ -9,14 +9,13 @@ This application allows users to create, read, update, and delete todo items, pr
 - **Read Todo Items**: View all your tasks in a user-friendly interface.
 - **Update Todo Items**: Edit existing tasks to modify their details.
 - **Delete Todo Items**: Remove tasks that are no longer needed.
-- **Responsive Design**: Works well on both desktop and mobile devices.
 
 ## Technologies Used
 
 - **Frontend**: React, Vite
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Others**: Git, GitHub, ESLint
+- **Others**: Git, GitHub
 
 ## Getting Started
 
